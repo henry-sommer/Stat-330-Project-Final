@@ -1,6 +1,6 @@
 
 ---
-title: "Our Project Title"
+title: "Stat 330 Project"
 subtitle: "BYU STAT 330 Group Project"
 format:
   html:
@@ -19,11 +19,12 @@ format:
 
 ## Research Question
 
-Can defensive statistics in football (interceptions, fumbles forced, yards against, ect.) predict total wins in a season?
+Can defensive statistics in football (interceptions, fumbles forced, yards against, etc.) predict total wins in a season?
 
 ## Data Source
 
 We are using NFL data from the SCORE Sports Data Repository. We are also using data from R studio in the "nflreadr" package.
+Link to SCORE website: https://data.scorenetwork.org/football/nfl-team-statistics.html
 
 ## Project Pages
 
