@@ -24,7 +24,7 @@ Can defensive statistics in football (interceptions, fumbles forced, yards again
 ## Data Source
 
 We are using NFL data from the SCORE Sports Data Repository. We are also using data from R studio in the "nflreadr" package.
-Link to SCORE website: https://data.scorenetwork.org/football/nfl-team-statistics.html
+Link to SCORE website: (<https://data.scorenetwork.org/football/nfl-team-statistics.html>)
 
 ## Project Pages
 
